@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>1-WEN&#39;Blog</title>
-        <link>http://example.org/</link>
-        <description>这是我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>EN</language><lastBuildDate>Thu, 02 Dec 2021 12:30:49 &#43;0800</lastBuildDate>
-            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>All Posts - 1-WEN&#39;Blog</title>
+        <link>http://example.org/posts/</link>
+        <description>All Posts | 1-WEN&#39;Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>EN</language><lastBuildDate>Thu, 02 Dec 2021 12:30:49 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
     <title>My First Post</title>
     <link>http://example.org/posts/my-first-post/</link>
     <pubDate>Thu, 02 Dec 2021 12:30:49 &#43;0800</pubDate><author>
